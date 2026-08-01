@@ -1,3 +1,8 @@
+---
+name: Mine Reclamation Monitor
+description: 'Compare pre-mining and post-reclamation NDVI (or other vegetation indices) to assess how well a reclaimed mine site is recovering. Accepts two GeoTIFF rasters, or auto-downloads via `--bbox --date-range`.'
+---
+
 
 ## Prerequisites / 先准备 X 文件
 
